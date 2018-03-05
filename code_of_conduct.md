@@ -1,4 +1,4 @@
-# CodeOfConduct
+# JuliaRobotics Code of Conduct
 
 This document contains the code of conduct for the Julia Robotics organization. It is adapted directly from the official [Julia Community Standards](https://julialang.org/community/standards/). 
 
