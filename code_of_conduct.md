@@ -10,10 +10,10 @@ In particular, do not sexualize the term “Julia” or any other aspects of the
 
 Give credit. All participants in the JuliaRobotics community are expected to respect copyright laws and ethical attribution standards. This applies to both code and written materials, such as documentation or blog posts. Materials that violate the law, are plagiaristic, or ethically dubious in some way will be removed from officially-maintained lists of resources.
 
-If you believe one of these standards has been violated, you can either file an issue on an appropriate repository or confidentially contact the JuliaRobotics admins at <julia-robotics@mit.edu>. Keep in mind that most mistakes are due to ignorance rather than malice.
+If you believe one of these standards has been violated, you can either file an issue on an appropriate repository or confidentially contact the JuliaRobotics admins at <julia-robotics@googlegroups.com>. Keep in mind that most mistakes are due to ignorance rather than malice.
 
 Be concise. Constructive criticism and suggestions are welcome, but high-traffic forums do not generally have the bandwidth for extensive discourse. Consider writing a blog post if you feel that you have enough to say on a particular subject.
 
 Get involved. The JuliaRobotics community is built on a foundation of reciprocity and collaboration. Be aware that most community members contribute on a voluntary basis, so ideas and bug reports are ok, but demands are not. Pull requests are always welcomed – see the guidelines for contributing to read about how to get started.
 
-Any concerns? If you have a conflict or concern that requires resolution, please contact the JuliaRobotics admins at <julia-robotics@mit.edu>.
+Any concerns? If you have a conflict or concern that requires resolution, please contact the JuliaRobotics admins at <julia-robotics@googlegroups.com>.
